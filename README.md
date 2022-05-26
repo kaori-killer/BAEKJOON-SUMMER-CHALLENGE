@@ -1,4 +1,4 @@
-# BACKJOON-SUMMER-CHALLENGE
+# baekjoon-summer-challenge
 
 ## 👨‍💻 유소정
 [![Solved.ac
