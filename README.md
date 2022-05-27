@@ -14,7 +14,7 @@
 
 
 ## 💻 참고하면 좋을 repo
-https://github.com/tony9402/baekjoon
+* https://github.com/tony9402/baekjoon
 
 
 ## 🗂 디렉토리 및 파일
