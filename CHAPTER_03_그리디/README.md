@@ -11,7 +11,7 @@
     * 앞의 선택이 이후의 선택에 영향을 주지 않아야 합니다.
    
 * 최적 부분 구조 조건
-    * 문제에 대한 최적해가 부분 문제에 대해서도 역시 최적해라는 점입니다.
+    * 문제에 대한 최적해가 부분 문제에 대해서도 역시 최적해이어야 합니다.
 
 ## 📌 참고 자료
 * [이것이 코딩 테스트다 with python](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791162243077&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlEFI5pOJXRZAcHoPFxXdJ2koTq-_aa10kLvirGasCF0x4Q8KIHdaDkaAkFEEALw_wcB)
