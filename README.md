@@ -4,6 +4,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoosojeong1107)](https://solved.ac/yoosojeong1107)
 
+## 🤙 규칙
+매일 1문제 이상
+
 ## 🐴 언어
 * Python
 
@@ -18,3 +21,9 @@
 
 ## 📝 코드리뷰
 * Pull requests 활용
+
+## 🍗 기록
++ 6월 17일
+    + [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+    + [주유소](https://www.acmicpc.net/problem/13305)
+
