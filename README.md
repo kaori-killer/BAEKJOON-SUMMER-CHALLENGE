@@ -24,6 +24,10 @@
 
 ## 🍗 기록
 + 6월 17일
-    + [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-    + [주유소](https://www.acmicpc.net/problem/13305)
+  + [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+  + [주유소](https://www.acmicpc.net/problem/13305)
 
++ 6월 18일
+  + [알바생 강호](https://www.acmicpc.net/problem/1758)
+  + [2+1 세일](https://www.acmicpc.net/problem/11508)
+  + [강의실 배정](https://www.acmicpc.net/problem/11000)
