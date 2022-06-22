@@ -32,6 +32,6 @@
   + [2+1 세일](https://www.acmicpc.net/problem/11508)
     
 + 6월 22일
-  + [주유소](https://www.acmicpc.net/problem/13305)
   + [ATM](https://www.acmicpc.net/problem/11399)
   + [에너지 드링크](https://www.acmicpc.net/problem/20115)
+  + [서강근육맨](https://www.acmicpc.net/problem/20300)
