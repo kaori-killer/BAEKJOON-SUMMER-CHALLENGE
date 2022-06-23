@@ -17,7 +17,8 @@
 + https://github.com/tony9402/baekjoon
 
 ## 🗂 디렉토리 및 파일
-+ /chapter 이름/문제.file
++ /chapter 이름/yy-mm-dd/문제.file
++ /chapter 이름/교재/문제.file
 
 ## 📝 코드리뷰
 + Pull requests 활용
