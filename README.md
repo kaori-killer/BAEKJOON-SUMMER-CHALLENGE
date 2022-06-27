@@ -24,9 +24,9 @@
 + Pull requests 활용
 
 ## 🍗 기록
+### 6월
 + 6월 17일
   + [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-  + [주유소](https://www.acmicpc.net/problem/13305)
 
 + 6월 18일
   + [알바생 강호](https://www.acmicpc.net/problem/1758)
@@ -41,3 +41,14 @@
   + [동전 0](https://www.acmicpc.net/problem/11047)
   + [회의실 배정](https://www.acmicpc.net/problem/1931)
   + [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+
++ 6월 27일
+  + [주유소](https://www.acmicpc.net/problem/13305)
+  + [강의실 배정](https://www.acmicpc.net/problem/11000)
+  + [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+  
++ 6월 28일
+  + [블로그2](https://www.acmicpc.net/problem/20365)
+  + [A → B](https://www.acmicpc.net/problem/16953)
+  + [민겸 수](https://www.acmicpc.net/problem/21314)
+  + [꿀 따기](https://www.acmicpc.net/problem/21758)
