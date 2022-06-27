@@ -25,6 +25,17 @@
 
 ## 🍗 기록
 ### 6월
++ 6월 15일 (수) 
+  + 큰 수의 법칙 (교재)
+  + 1이 될 때까지 (교재)
+  + 거스름돈 (교재)
+  + 숫자 카드 게임 (교재)
+  
++ 6월 16일 (목)
+  + [거스름돈](https://www.acmicpc.net/problem/14916)
+  + [로프](https://www.acmicpc.net/problem/2217)
+  + [폴리오미노](https://www.acmicpc.net/problem/1343)
+  
 + 6월 17일 (금)
   + [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) (실패)
   + [주유소](https://www.acmicpc.net/problem/13305) (실패)
