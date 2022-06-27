@@ -61,10 +61,9 @@
 + 6월 27일 (월)
   + [주유소](https://www.acmicpc.net/problem/13305) (성공)
   + [강의실 배정](https://www.acmicpc.net/problem/11000)
-  + [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-  
-+ 6월 28일 (화)
   + [블로그2](https://www.acmicpc.net/problem/20365)
+
++ 6월 28일 (화)
   + [A → B](https://www.acmicpc.net/problem/16953)
   + [민겸 수](https://www.acmicpc.net/problem/21314)
   + [꿀 따기](https://www.acmicpc.net/problem/21758)
