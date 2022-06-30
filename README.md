@@ -56,14 +56,20 @@
   + [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 
 + 6월 26일 (일)
-    + [강의실 배정](https://www.acmicpc.net/problem/11000) (실패)
+  + [강의실 배정](https://www.acmicpc.net/problem/11000) (실패)
   
 + 6월 27일 (월)
   + [주유소](https://www.acmicpc.net/problem/13305) (성공)
-  + [강의실 배정](https://www.acmicpc.net/problem/11000)
+  + [강의실 배정](https://www.acmicpc.net/problem/11000) (성공) 
   + [블로그2](https://www.acmicpc.net/problem/20365)
 
 + 6월 28일 (화)
+  + [소가 길을 건너간 이유1](https://www.acmicpc.net/problem/14467)
+
++ 6월 29일 (수)
+  + [오리](https://www.acmicpc.net/problem/12933) (실패)
+ 
++ 6월 30일 (목)  
   + [A → B](https://www.acmicpc.net/problem/16953)
   + [민겸 수](https://www.acmicpc.net/problem/21314)
   + [꿀 따기](https://www.acmicpc.net/problem/21758)
