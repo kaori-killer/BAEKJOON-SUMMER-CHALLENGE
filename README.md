@@ -71,5 +71,17 @@
  
 + 6월 30일 (목)  
   + [A → B](https://www.acmicpc.net/problem/16953)
+  
+### 7월
++ 7월 2일 (토)
+  + [파일 정리](https://www.acmicpc.net/problem/20291)
+  
++ 7월 13일 (수)
+  + [바이러스](https://www.acmicpc.net/problem/2606)
+  
++ 7월 15일 (금)
   + [민겸 수](https://www.acmicpc.net/problem/21314)
   + [꿀 따기](https://www.acmicpc.net/problem/21758)
+  + [통계학](https://www.acmicpc.net/problem/2108)
+  + [상어 초등학교](https://www.acmicpc.net/problem/21608)
+  
