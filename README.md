@@ -81,7 +81,16 @@
   
 + 7월 15일 (금)
   + [민겸 수](https://www.acmicpc.net/problem/21314)
-  + [꿀 따기](https://www.acmicpc.net/problem/21758)
   + [통계학](https://www.acmicpc.net/problem/2108)
-  + [상어 초등학교](https://www.acmicpc.net/problem/21608)
   
++ 7월 16일 (토)
+  + [꿀 따기](https://www.acmicpc.net/problem/21758) (실패)
+  + [좌표 압축](https://www.acmicpc.net/problem/18870)
+
++ 7월 17일 (일)
+  + [두 용액](https://www.acmicpc.net/problem/2470)
+  + [센서](https://www.acmicpc.net/problem/2212)
+
++ 7월 18일 (월)   
+  + [꿀 따기](https://www.acmicpc.net/problem/21758) (실패)
+  + [상어 초등학교](https://www.acmicpc.net/problem/21608)
