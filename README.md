@@ -89,8 +89,8 @@
 
 + 7월 17일 (일)
   + [두 용액](https://www.acmicpc.net/problem/2470)
-  + [센서](https://www.acmicpc.net/problem/2212)
 
-+ 7월 18일 (월)   
++ 7월 18일 (월)
   + [꿀 따기](https://www.acmicpc.net/problem/21758) (실패)
   + [상어 초등학교](https://www.acmicpc.net/problem/21608)
+  + [센서](https://www.acmicpc.net/problem/2212)
