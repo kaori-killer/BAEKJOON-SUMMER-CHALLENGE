@@ -87,10 +87,30 @@
   + [꿀 따기](https://www.acmicpc.net/problem/21758) (실패)
   + [좌표 압축](https://www.acmicpc.net/problem/18870)
 
-+ 7월 17일 (일)
-  + [두 용액](https://www.acmicpc.net/problem/2470)
++ 7월 19일 (화)
+  + [빙고](https://www.acmicpc.net/problem/2578)
+  + [지뢰 찾기](https://www.acmicpc.net/problem/4396)
+  + [달팽이](https://www.acmicpc.net/problem/1913)
 
-+ 7월 18일 (월)
-  + [꿀 따기](https://www.acmicpc.net/problem/21758) (실패)
-  + [상어 초등학교](https://www.acmicpc.net/problem/21608)
-  + [센서](https://www.acmicpc.net/problem/2212)
++ 7월 20일 (수)
+  + [오리](https://www.acmicpc.net/problem/12933)
+  + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
+  + [ZOAC 3](https://www.acmicpc.net/problem/20436)
+  
++ 7월 21일 (목)
+  + [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+  + [파일 정리](https://www.acmicpc.net/problem/2615)
+  + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
+
++ 7월 22일 (금)
+  + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
+  + [오목](https://www.acmicpc.net/problem/2615)
+  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+
++ 7월 23일 (토)
+  + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
+  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+  + [달력](https://www.acmicpc.net/problem/20207)
+
++ 미해결
+  + [꿀 따기](https://www.acmicpc.net/problem/21758)
