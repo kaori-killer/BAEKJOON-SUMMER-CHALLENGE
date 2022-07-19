@@ -91,8 +91,7 @@
 + 7월 19일 (화)
   + [빙고](https://www.acmicpc.net/problem/2578)
   + [지뢰 찾기](https://www.acmicpc.net/problem/4396)
-  + [달팽이](https://www.acmicpc.net/problem/1913)
-
+  
 + 7월 20일 (수)
   + [오리](https://www.acmicpc.net/problem/12933)
   + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
@@ -113,9 +112,9 @@
   + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
   + [달력](https://www.acmicpc.net/problem/20207)
 
-+ 미해결
-  + [꿀 따기](https://www.acmicpc.net/problem/21758)
-
+### 미해결
+  + [꿀 따기](https://www.acmicpc.net/problem/21758) - 그리디
+  + [달팽이](https://www.acmicpc.net/problem/1913) - 구현
 
 ### ✍ 6월 후기
 
@@ -123,4 +122,3 @@
 ### ✍ 7월 후기
 구현은 난이도가 낮아도 어렵고 시간이 오래 걸린다. 
 그래서 차분하게 예시를 수기로 그려볼 때 더 빨리 풀렸다.
-이제 매일 푸는 습관을 들여야겠다.
