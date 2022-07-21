@@ -115,6 +115,8 @@
     + [배열 돌리기](https://www.acmicpc.net/problem/17276)
     + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
     + [달력](https://www.acmicpc.net/problem/20207)
+  + 그리디 -> 구현, 이진탐색 -> dp -> 최단경로 -> 그래프
+  + bfsdfs, 정렬
 
 ### 미해결
   + 그리디
@@ -124,10 +126,3 @@
     + [달팽이](https://www.acmicpc.net/problem/1913)
     + [오리](https://www.acmicpc.net/problem/12933)
     + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
-
-### ✍ 6월 후기
-.
-
-### ✍ 7월 후기
-구현은 난이도가 낮아도 어렵고 시간이 오래 걸린다. 
-그래서 차분하게 예시를 수기로 그려볼 때 더 빨리 풀렸다.
