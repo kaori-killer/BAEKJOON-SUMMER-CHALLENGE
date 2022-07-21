@@ -93,31 +93,40 @@
   + [지뢰 찾기](https://www.acmicpc.net/problem/4396)
   
 + 7월 20일 (수)
-  + [오리](https://www.acmicpc.net/problem/12933)
-  + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
-  + [ZOAC 3](https://www.acmicpc.net/problem/20436)
+  + [오리](https://www.acmicpc.net/problem/12933) (실패)
   
 + 7월 21일 (목)
-  + [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
-  + [파일 정리](https://www.acmicpc.net/problem/2615)
-  + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
-
+  + [ZOAC 3](https://www.acmicpc.net/problem/20436)
+  + [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
+  
 + 7월 22일 (금)
-  + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
-  + [오목](https://www.acmicpc.net/problem/2615)
-  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
-
+  + [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+  + [선분 위의 점](https://www.acmicpc.net/problem/11663)
+  
 + 7월 23일 (토)
   + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
-  + [달력](https://www.acmicpc.net/problem/20207)
+  + [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871)
+  
+### 풀고 싶은 문제
+  + 구현
+    + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
+    + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
+    + [오목](https://www.acmicpc.net/problem/2615)
+    + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+    + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+    + [달력](https://www.acmicpc.net/problem/20207)
 
 ### 미해결
-  + [꿀 따기](https://www.acmicpc.net/problem/21758) - 그리디
-  + [달팽이](https://www.acmicpc.net/problem/1913) - 구현
+  + 그리디
+    + [꿀 따기](https://www.acmicpc.net/problem/21758) 
+    
+  + 구현
+    + [달팽이](https://www.acmicpc.net/problem/1913)
+    + [오리](https://www.acmicpc.net/problem/12933)
+    + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
 
 ### ✍ 6월 후기
-
+.
 
 ### ✍ 7월 후기
 구현은 난이도가 낮아도 어렵고 시간이 오래 걸린다. 
