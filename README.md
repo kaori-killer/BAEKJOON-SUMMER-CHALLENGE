@@ -108,7 +108,8 @@
 
 + 7월 24일 (일)
   + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-  
+  + [공유기 설치](https://www.acmicpc.net/problem/2110)
+    
 ### 풀고 싶은 문제
   + 구현
     + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
