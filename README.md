@@ -104,8 +104,10 @@
   + [선분 위의 점](https://www.acmicpc.net/problem/11663)
   
 + 7월 23일 (토)
-  + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
   + [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871)
+
++ 7월 24일 (일)
+  + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
   
 ### 풀고 싶은 문제
   + 구현
