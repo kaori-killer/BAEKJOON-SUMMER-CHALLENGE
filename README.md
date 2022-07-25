@@ -109,17 +109,39 @@
 + 7월 24일 (일)
   + [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
   + [공유기 설치](https://www.acmicpc.net/problem/2110)
-    
+  
++ 7월 25일 (월)
+  + [수들의 합](https://www.acmicpc.net/problem/1789)
+  + [다리 놓기](https://www.acmicpc.net/problem/1010)
+
++ 7월 26일 (화)
+  + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
+  + [돌 게임](https://www.acmicpc.net/problem/9655)    
+
++ 7월 27일 (수)
+  + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
+  + [Four Squares](https://www.acmicpc.net/problem/17626)
+  
++ 7월 28일 (목)
+  + [오목](https://www.acmicpc.net/problem/2615)
+  + [계단 오르기](https://www.acmicpc.net/problem/2579)
+
++ 7월 29일 (금)
+  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+  + [점프](https://www.acmicpc.net/problem/1890)
+  
++ 7월 30일 (토)
+  + [스티커](https://www.acmicpc.net/problem/9465)
+
++ 7월 31일 (일)
+
 ### 풀고 싶은 문제
-  + 구현
-    + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
-    + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
-    + [오목](https://www.acmicpc.net/problem/2615)
-    + [배열 돌리기](https://www.acmicpc.net/problem/17276)
-    + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
-    + [달력](https://www.acmicpc.net/problem/20207)
-  + 그리디 -> 구현, 이진탐색 -> dp -> 최단경로 -> 그래프
-  + bfsdfs, 정렬
++ 구현
+  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+  + [달력](https://www.acmicpc.net/problem/20207)
+
++ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp -> 최단경로 -> 그래프
++ bfsdfs, 정렬
 
 ### 미해결
   + 그리디
