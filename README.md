@@ -112,14 +112,13 @@
   
 + 7월 25일 (월)
   + [수들의 합](https://www.acmicpc.net/problem/1789)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
 
 + 7월 26일 (화)
-  + [단어 뒤집기 2](https://www.acmicpc.net/problem/17276)
-  + [돌 게임](https://www.acmicpc.net/problem/9655)    
+  + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
+  + [다리 놓기](https://www.acmicpc.net/problem/1010)
 
 + 7월 27일 (수)
-  + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
+  + [돌 게임](https://www.acmicpc.net/problem/9655)
   + [Four Squares](https://www.acmicpc.net/problem/17626)
   
 + 7월 28일 (목)
