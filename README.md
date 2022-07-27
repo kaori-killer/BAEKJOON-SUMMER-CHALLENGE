@@ -115,14 +115,13 @@
 
 + 7월 26일 (화)
   + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
 
 + 7월 27일 (수)
+  + [다리 놓기](https://www.acmicpc.net/problem/1010)
   + [돌 게임](https://www.acmicpc.net/problem/9655)
-  + [Four Squares](https://www.acmicpc.net/problem/17626)
   
 + 7월 28일 (목)
-  + [오목](https://www.acmicpc.net/problem/2615)
+  + [오목](https://www.acmicpc.net/problem/2615) 
   + [계단 오르기](https://www.acmicpc.net/problem/2579)
 
 + 7월 29일 (금)
@@ -131,6 +130,7 @@
   
 + 7월 30일 (토)
   + [스티커](https://www.acmicpc.net/problem/9465)
+  + [Four Squares](https://www.acmicpc.net/problem/17626)
 
 + 7월 31일 (일)
 
