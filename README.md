@@ -116,31 +116,40 @@
 + 7월 26일 (화)
   + [원상 복구 (small)](https://www.acmicpc.net/problem/22858)
 
-+ 7월 27일 (수)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
++ 7월 31일 (일)
   + [돌 게임](https://www.acmicpc.net/problem/9655)
-  
-+ 7월 28일 (목)
-  + [오목](https://www.acmicpc.net/problem/2615) 
   + [계단 오르기](https://www.acmicpc.net/problem/2579)
-
-+ 7월 29일 (금)
-  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
   + [점프](https://www.acmicpc.net/problem/1890)
-  
-+ 7월 30일 (토)
   + [스티커](https://www.acmicpc.net/problem/9465)
+
+### 8월
+
++ 8월 1일 (월)
+  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+  + [다리 놓기](https://www.acmicpc.net/problem/1010)
+
++ 8월 2일 (화)
+  + [오목](https://www.acmicpc.net/problem/2615) 
+  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+
++ 8월 3일 (수)
+  + [달력](https://www.acmicpc.net/problem/20207)
   + [Four Squares](https://www.acmicpc.net/problem/17626)
 
-+ 7월 31일 (일)
-
 ### 풀고 싶은 문제
-+ 구현
-  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
-  + [달력](https://www.acmicpc.net/problem/20207)
-
-+ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp -> 최단경로 -> 그래프
++ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로 -> 그래프
 + bfsdfs, 정렬
+
++ dp
++ [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
++ [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
++ [조합](https://www.acmicpc.net/problem/2407)
++ [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857)
++ [연속합](https://www.acmicpc.net/problem/1912)
++ [퇴사2](https://www.acmicpc.net/problem/15486)
++ [징검다리 건너기](https://www.acmicpc.net/problem/21317)
++ [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869)
++ [주지수](https://www.acmicpc.net/problem/15724)
 
 ### 미해결
   + 그리디
