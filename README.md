@@ -124,32 +124,34 @@
 
 ### 8월
 
-+ 8월 1일 (월)
-  + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
-
 + 8월 2일 (화)
-  + [오목](https://www.acmicpc.net/problem/2615) 
-  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+  + [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 
 + 8월 3일 (수)
   + [달력](https://www.acmicpc.net/problem/20207)
+  + [경로 찾기](https://www.acmicpc.net/problem/11403)
+
++ 8월 4일 (목)
   + [Four Squares](https://www.acmicpc.net/problem/17626)
+  + [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)
+  
++ 8월 5일 (금)
+  + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+  + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 
 ### 풀고 싶은 문제
-+ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로 -> 그래프
++ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> 그래프
 + bfsdfs, 정렬
 
 + dp
-+ [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-+ [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
-+ [조합](https://www.acmicpc.net/problem/2407)
-+ [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857)
-+ [연속합](https://www.acmicpc.net/problem/1912)
-+ [퇴사2](https://www.acmicpc.net/problem/15486)
-+ [징검다리 건너기](https://www.acmicpc.net/problem/21317)
-+ [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869)
-+ [주지수](https://www.acmicpc.net/problem/15724)
+  + [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+  + [조합](https://www.acmicpc.net/problem/2407)
+  + [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857)
+  + [연속합](https://www.acmicpc.net/problem/1912)
+  + [퇴사2](https://www.acmicpc.net/problem/15486)
+  + [징검다리 건너기](https://www.acmicpc.net/problem/21317)
+  + [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869)
+  + [주지수](https://www.acmicpc.net/problem/15724)
 
 ### 미해결
   + 그리디
@@ -159,3 +161,8 @@
     + [달팽이](https://www.acmicpc.net/problem/1913)
     + [오리](https://www.acmicpc.net/problem/12933)
     + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
+    + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+    + [오목](https://www.acmicpc.net/problem/2615) 
+
+  + dp
+    + [다리 놓기](https://www.acmicpc.net/problem/1010)
