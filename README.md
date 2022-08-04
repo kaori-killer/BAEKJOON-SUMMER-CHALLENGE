@@ -127,15 +127,14 @@
 + 8월 2일 (화)
   + [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 
-+ 8월 3일 (수)
-  + [달력](https://www.acmicpc.net/problem/20207)
++ 8월 4일 (목)
   + [경로 찾기](https://www.acmicpc.net/problem/11403)
 
-+ 8월 4일 (목)
++ 8월 5일 (금
   + [Four Squares](https://www.acmicpc.net/problem/17626)
   + [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)
   
-+ 8월 5일 (금)
++ 8월 6일 (토)
   + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
   + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 
@@ -163,6 +162,7 @@
     + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
     + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
     + [오목](https://www.acmicpc.net/problem/2615) 
+    + [달력](https://www.acmicpc.net/problem/20207)
 
   + dp
     + [다리 놓기](https://www.acmicpc.net/problem/1010)
