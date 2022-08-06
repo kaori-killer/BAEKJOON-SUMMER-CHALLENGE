@@ -134,9 +134,12 @@
   + [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)
   
 + 8월 6일 (토)
+  + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+
++ 8월 7일 (일)    
   + [Four Squares](https://www.acmicpc.net/problem/17626)
   + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-  + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+
 
 ### 풀고 싶은 문제
 + 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> 그래프
