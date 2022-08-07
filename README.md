@@ -136,15 +136,16 @@
 + 8월 6일 (토)
   + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 
-+ 8월 7일 (일)    
++ 8월 8일 (월)
   + [Four Squares](https://www.acmicpc.net/problem/17626)
   + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 
 
 ### 풀고 싶은 문제
-+ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> 그래프
-+ bfsdfs, 정렬
-
++ 1. 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> BFS/DFS
++ 2. 그래프, 자료구조, 트리, 수학, 완전탐색
++ 3. 투포인터, 시뮬레이션, 백트래킹, 분할정복, 누적합, 문자열, 위상정렬, 분리집합, 최소 스패닝 트리, 트라이, 트리디피
+  
 + dp
   + [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
   + [조합](https://www.acmicpc.net/problem/2407)
