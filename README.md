@@ -25,7 +25,6 @@
 
 ## 🍗 기록
 ### 6월
-
 + 6월 15일 (수) 
   + 큰 수의 법칙 (교재)
   + 1이 될 때까지 (교재)
@@ -123,32 +122,44 @@
   + [스티커](https://www.acmicpc.net/problem/9465)
 
 ### 8월
-
-+ 8월 1일 (월)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
-
 + 8월 2일 (화)
-  + [오목](https://www.acmicpc.net/problem/2615) 
   + [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
-
-+ 8월 3일 (수)
-  + [경로 찾기](https://www.acmicpc.net/problem/11403)
-  + [달력](https://www.acmicpc.net/problem/20207)
-
+  
 + 8월 4일 (목)
-  + [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)
-  + [배열 돌리기](https://www.acmicpc.net/problem/17276)
+  + [경로 찾기](https://www.acmicpc.net/problem/11403)
 
 + 8월 5일 (금)
-  + [숨박꼭질 3](https://www.acmicpc.net/problem/13549)
+  + [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)
+  
++ 8월 6일 (토)
+  + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+
++ 8월 8일 (월)
   + [Four Squares](https://www.acmicpc.net/problem/17626)
+  + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+
++ 8월 9일 (화)
+  + [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  + [미로 탐색](https://www.acmicpc.net/problem/2178)
+
++ 8월 9일 (수)
+  + [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+  + [단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
++ 8월 9일 (목)
+  + [효율적인 해킹](https://www.acmicpc.net/problem/1325)
+  + [봄버맨](https://www.acmicpc.net/problem/16918)
++ 
++ 8월 9일 (금)
+  + [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+  + [토마토](https://www.acmicpc.net/problem/7576)
   
 ### 풀고 싶은 문제
-+ 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> 그래프
-+ bfsdfs, 정렬
-
++ 1. 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> BFS/DFS(완료)
++ 2. 그래프, 자료구조, 트리, 수학, 완전탐색
++ 3. 투포인터, 시뮬레이션, 백트래킹, 분할정복, 누적합, 문자열, 위상정렬, 분리집합, 최소 스패닝 트리, 트라이, 트리디피
+  
 + dp
-  + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
   + [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
   + [조합](https://www.acmicpc.net/problem/2407)
   + [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857)
@@ -167,3 +178,8 @@
     + [오리](https://www.acmicpc.net/problem/12933)
     + [별 찍기 - 19](https://www.acmicpc.net/problem/10994)
     + [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+    + [오목](https://www.acmicpc.net/problem/2615) 
+    + [달력](https://www.acmicpc.net/problem/20207)
+
+  + dp
+    + [다리 놓기](https://www.acmicpc.net/problem/1010)
