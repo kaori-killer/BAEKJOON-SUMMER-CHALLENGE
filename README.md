@@ -133,24 +133,20 @@
   
 + 8월 6일 (토)
   + [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-
-+ 8월 8일 (월)
-  + [다리 놓기](https://www.acmicpc.net/problem/1010)
-
-+ 8월 9일 (화)
-  + [DFS와 BFS](https://www.acmicpc.net/problem/1260)
-  + [미로 탐색](https://www.acmicpc.net/problem/2178)
-
-+ 8월 9일 (수)
+  
++ 8월 14일 (일)
   + [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
-  + [단지번호붙이기](https://www.acmicpc.net/problem/2667)
 
-+ 8월 9일 (목)
++ 8월 16일 (화)
+  + [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
   + [효율적인 해킹](https://www.acmicpc.net/problem/1325)
+
++ 8월 17일 (수)
+  + [미로 탐색](https://www.acmicpc.net/problem/2178)
   + [봄버맨](https://www.acmicpc.net/problem/16918)
 
-+ 8월 9일 (금)
-  + [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
++ 8월 18일 (목)
+  + [단지번호붙이기](https://www.acmicpc.net/problem/2667)
   + [토마토](https://www.acmicpc.net/problem/7576)
   
 ### 풀고 싶은 문제
@@ -183,3 +179,4 @@
   + dp
     + [Four Squares](https://www.acmicpc.net/problem/17626)
     + [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+    + [다리 놓기](https://www.acmicpc.net/problem/1010) 
