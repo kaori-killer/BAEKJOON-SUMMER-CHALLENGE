@@ -143,11 +143,9 @@
 
 + 8월 17일 (수)
   + [미로 탐색](https://www.acmicpc.net/problem/2178)
-  + [봄버맨](https://www.acmicpc.net/problem/16918)
 
 + 8월 18일 (목)
   + [단지번호붙이기](https://www.acmicpc.net/problem/2667)
-  + [토마토](https://www.acmicpc.net/problem/7576)
   
 ### 풀고 싶은 문제
 + 1. 그리디(완료) -> 구현(완료), 이진탐색(완료) -> dp(완료) -> 최단경로(완료) -> BFS/DFS(완료)
@@ -164,6 +162,9 @@
   + [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869)
   + [주지수](https://www.acmicpc.net/problem/15724)
 
++ bfs/dfs
+  + [봄버맨](https://www.acmicpc.net/problem/16918)
+  
 ### 미해결
   + 그리디
     + [꿀 따기](https://www.acmicpc.net/problem/21758) 
